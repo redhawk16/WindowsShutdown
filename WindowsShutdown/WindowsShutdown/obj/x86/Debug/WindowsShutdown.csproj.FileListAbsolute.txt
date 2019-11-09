@@ -1,0 +1,21 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Form1.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Properties.Resources.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\obj\x86\Debug\WindowsShutdown.csproj.GenerateResource.Cache
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\bin\Debug\WindowsShutdown.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\bin\Debug\WindowsShutdown.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\obj\x86\Debug\WindowsShutdown.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\WindowsShutdown\obj\x86\Debug\WindowsShutdown.pdb
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe.config
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.exe
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Debug\WindowsShutdown.pdb
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Form1.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Form2.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Form3.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.Properties.Resources.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.csproj.GenerateResource.cache
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.csproj.CoreCompileInputs.cache
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.exe
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.pdb
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.csprojAssemblyReference.cache
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Debug\Microsoft.Speech.dll
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Debug\WindowsShutdown.csproj.CopyComplete

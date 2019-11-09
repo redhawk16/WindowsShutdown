@@ -1,0 +1,7 @@
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.exe
+E:\Shutdown\WindowsShutdown\WindowsShutdown\bin\Release\WindowsShutdown.pdb
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Release\WindowsShutdown.Form1.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Release\WindowsShutdown.Properties.Resources.resources
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Release\WindowsShutdown.csproj.GenerateResource.Cache
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Release\WindowsShutdown.exe
+E:\Shutdown\WindowsShutdown\WindowsShutdown\obj\x86\Release\WindowsShutdown.pdb
